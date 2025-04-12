@@ -5,4 +5,4 @@ This project is a foundation for evaluating the behaviors of complex LLMs such a
 In machine ethics, the [moral parliament](https://www.fhi.ox.ac.uk/wp-content/uploads/2021/06/Parliamentary-Approach-to-Moral-Uncertainty.pdf) is a leading idea among ethical decision-making algorithms.
 Such algorithms are of particular interest in future LLMs.
 
-[Presentation Slides](https://docs.google.com/presentation/d/1-NggVREyzPMDRnIP1BTdmWK-bXZqs4yxamF-KuEaMPg/edit?usp=sharing)
+[Presentation Slides](https://docs.google.com/presentation/d/1ip6iGNDNjjdNuL7Y3lvOAJgCG4Lh5NjGLkjLDCzMhgs/edit?usp=sharing)
